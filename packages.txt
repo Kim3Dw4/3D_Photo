@@ -1,0 +1,8 @@
+xvfb
+
+libglfw3-dev
+libgles2-mesa-dev
+
+libxkbcommon-dev
+libxkbcommon-x11-dev
+libdbus-1-dev
